@@ -24,6 +24,7 @@ interface ButtonClassnamesConfig {
  *
  * Inputs that are available for the component:
  *
+ *
  * aplzAppearance - The appearance of the button ('basic', 'stroked', 'solid')
  *
  * aplzColor - The color of the button ('light', 'dark', 'aplazo', 'accent', 'success', 'danger', 'warning', 'info')
